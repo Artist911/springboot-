@@ -1,0 +1,9 @@
+server:
+  port: 8083
+  servlet:
+    context-path: /my
+
+school:
+  name: 动力节点
+  address: 开福区
+  website: www.powernode.com

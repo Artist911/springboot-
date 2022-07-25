@@ -1,0 +1,7 @@
+#设置端口号 和 上下文路径
+spring:
+  profiles:
+    active: dev
+
+school:
+  name: 戴凌志
